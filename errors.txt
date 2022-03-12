@@ -1,0 +1,6 @@
+[2/11/2022, 1:48:26 AM] layer "+(880)  ": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2/11/2022, 1:48:27 AM] layer "  get in touch       info@example.com": Unsupported extension: com
+[2/11/2022, 1:48:27 AM] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2/11/2022, 1:48:27 AM] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2/11/2022, 1:48:27 AM] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2/11/2022, 1:48:27 AM] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
